@@ -72,4 +72,4 @@ bin/cake server
 by default it will open in http://localhost:8765/
 
 ### Built With
-This application is build with CakePHP version 4 and Javascript. I use CakePHP default ORM, validation and other convention, jQuery for Javascript, MySQL for database. I use [Meddo](https://medoo.in/) for ORM.Also for token based authentication I use  [JWT](http://jwt.io/)
+This application is build with CakePHP version 4 and Javascript. I use CakePHP default ORM, validation and other convention, jQuery for Javascript, MySQL for database.Also for token based authentication I use  [JWT](http://jwt.io/)
